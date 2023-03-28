@@ -14,6 +14,8 @@
 -  💜  ☛ Estamos trabajando con codigos psent
 
 -  💜  ☛ Pueden contactarme a mi correo personal **jancofabricio10@gmail.com**
+  
+-  💜  ☛ Tambien pueden ver mi proceso de crecimiento en mi **https://github.com/Kazami9029**
   ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kazami9029&theme=dark&hide_border=true&border_radius=5&locale=es&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
