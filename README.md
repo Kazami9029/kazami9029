@@ -1,5 +1,4 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/kEEeJPaebgkt1CVEFU/giphy.gif" width="=100" />
 <img src="https://media.giphy.com/media/NOWo1GR5zXYl2/giphy.gif" width="490" />
 <h1>  HOLA  👋 Soy Fabricio Janco la alpaca mayor :v</h1>
 <h3 align="center">Soy un estudiante de la universidad Domingo sabio estoy estudianto ingenieria en sistemas en la materia de programacion basica. </h3>
